@@ -4,10 +4,13 @@
 * @version 1.0
 * @description What the- a ANIME THEME NICEEEE
 
+
 :root {
+
     /*
     Change the theme background
     Default: https://www.wallpapertip.com/wmimgs/46-468859_portrait-anime-anime-girls-digital-art-artwork-anime.jpg
+    
     */
     --background-image: url(https://www.wallpapertip.com/wmimgs/46-468859_portrait-anime-anime-girls-digital-art-artwork-anime.jpg);
 
